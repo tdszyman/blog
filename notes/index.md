@@ -1,6 +1,5 @@
 ---
 title: Terry Szymanski's Notes
-category: Notes
 ---
 
 In addition to my blog posts, this site contains my personal notes on various topics relating to machine learning, data science, natural language processing, and linguistics.
