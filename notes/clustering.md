@@ -7,8 +7,6 @@ Clustering is an [unsupervised](unsupervised_learning) machine learning techniqu
 
 When the cluster labels are known, the analogous [supervised] approach to this same problem is called [classification](classification).
 
-[classification](classification.html)
-
 * Heirarchical clustering
 * K-means clustering
 * <https://en.wikipedia.org/wiki/Cluster_analysis>
