@@ -1,6 +1,6 @@
 ---
 title: Unsupervised Learning
-permalink: unsupervised_learning.html
+permalink: unsupervised_learning
 ---
 
 Unsupervised learning is one of the major, broad categories of machine learning. The primary characteristic of an unsupervised machine learning problem is that the data used as in input to the machine learning algorithm is 
