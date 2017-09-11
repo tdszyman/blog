@@ -21,4 +21,4 @@ Classification is one of the most commonly used techniques in [supervised](super
 
 ## Links
 
-* https://en.wikipedia.org/wiki/Statistical_classification
+* <https://en.wikipedia.org/wiki/Statistical_classification>

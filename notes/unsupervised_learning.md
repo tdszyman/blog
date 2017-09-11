@@ -8,3 +8,6 @@ Unsupervised learning is one of the major, broad categories of machine learning.
 
 The most common example of unsupervised learning is [clustering](clustering.html). Another common use case is [representation learning](representation_learning), for example learning vector [embeddings](/embeddings) with a neural network [autoencoder](autoencoder).
 
+## Links
+
+* <https://en.wikipedia.org/wiki/Supervised_learning>

@@ -9,5 +9,7 @@ When the cluster labels are known, the analogous [supervised] approach to this s
 
 * Heirarchical clustering
 * K-means clustering
-* <https://en.wikipedia.org/wiki/Cluster_analysis>
 
+## Links
+
+* <https://en.wikipedia.org/wiki/Cluster_analysis>
