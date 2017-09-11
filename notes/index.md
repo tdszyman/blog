@@ -6,13 +6,12 @@ In addition to my blog posts, this site contains my personal notes on various to
 
 Below is an incomplete index of these pages.
 
-* [Machine Learning](/blog/machine_learning.html)
-    -  [Unsupervised Learning](/blog/unsupervised_learning.html)
-    -  [Supervised Learning](/blog/supervised_learning.html)
-    -  
+* [Machine Learning](/blog/notes/machine_learning)
+    -  [Unsupervised Learning](/blog/notes/unsupervised_learning)
+    -  [Supervised Learning](/blog/notes/supervised_learning)
 
-* [Natural Language Processing](/blog/natural_language_processing.html)
-    - [NLP Problems](/blog/nlp_problems.html)
-    - [Word Embeddings](/blog/word_embeddings.html)
-    - [Diachronic Word Embeddings](/blog/diachronic_word_embeddings.html)
+* [Natural Language Processing](/blog/notes/natural_language_processing)
+    - [NLP Problems](/blog/notes/nlp_problems)
+    - [Word Embeddings](/blog/notes/word_embeddings)
+    - [Diachronic Word Embeddings](/blog/notes/diachronic_word_embeddings)
 
